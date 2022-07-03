@@ -6,7 +6,7 @@ The execution environment will be Wii U: dition.
 
 You can get the software from [here]().
 
-## Use it
+## Use it 🍴
 
 It will be applied by pasting the created code into the corresponding item of UME.
 
@@ -14,7 +14,7 @@ It will be applied by pasting the created code into the corresponding item of UM
 
 <img width="246" alt="スクリーンショット (800)" src="https://user-images.githubusercontent.com/101918076/177020251-2f1b10e8-58e9-46ad-ae98-02f8ef47de13.png">
 
-## More Tool
+## More Tool 🌱
 
 **Minecraft ID** 🧡  
 Check the online ID list & calculate the rotation value of the entity
