@@ -4,7 +4,7 @@ Assist software for quick and easy world remodeling by UME
 
 The execution environment will be Wii U: dition.
 
-You can get the software from [here]().
+You can get the software from [here](https://github.com/Pop-Apple/Universal-MC-Editor-Mod-Plus/releases/tag/wiiu).
 
 ## Use it 🍴
 
