@@ -4,6 +4,8 @@ Assist software for quick and easy world remodeling by UME
 
 The execution environment will be Wii U: dition.
 
+You can get the software from [here]().
+
 ## Use it
 
 It will be applied by pasting the created code into the corresponding item of UME.
@@ -46,3 +48,11 @@ You can save the trouble of managing the code by modifying the world.
 Anyone can easily copy the code with one touch
 
 ## License 💭
+
+Copyright © Pop-Apple 2022
+
+## Language and Tools 🍎
+
+* Visual Studio 2022
+* Vsiual Studio Code
+* Sakura Editor
