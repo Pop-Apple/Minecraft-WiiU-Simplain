@@ -215,21 +215,6 @@ namespace Universal_Minecraft_Editor_Mod__
 		}
 		private void btnOfferApp_Click(object sender, EventArgs e)
 		{
-			//DialogResult result = MessageBox.Show("Universal MInecraft Editor"
-			//							  + Environment.NewLine +
-			//							  "" 
-			//							  + Environment.NewLine +
-			//							  "インストールの準備が整いました"
-			//							  + Environment.NewLine +
-			//							  "インストールを開始しますか？", "Offer App (提供アプリ)",
-			//							  MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-			//if (result == System.Windows.Forms.DialogResult.Yes)
-			//{
-			//	Process.Start("https://www.universalminecrafteditor.com/5glXX1pcDtTpIhlScl37.html");
-			//}
-			//else if (result == System.Windows.Forms.DialogResult.No)
-			//{
-			//}
 			App f5 = new App();
 			f5.ShowDialog();
 		}
@@ -269,8 +254,6 @@ namespace Universal_Minecraft_Editor_Mod__
 		/// <summary>
 		/// Menu Strip Setting
 		/// </summary>
-		/// <param name="sender"></param>
-		/// <param name="e"></param>
 		private void 開くToolStripMenuItem_Click(object sender, EventArgs e)
 		{
 			OpenFileDialog ofd = new OpenFileDialog();
