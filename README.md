@@ -5,6 +5,12 @@ Paste the code where the conditional branch applies
 This repository is open source and under the MIT License.  
 It is also very interesting to improve the code and create plug-ins as needed！  
 
+## Repository
+
+```
+git clone https://github.com/Pop-Apple/Minecraft-WiiU-Mods-Plus.git
+```
+
 ## Screenshot
 
 <img width="436" alt="sunset" src="https://user-images.githubusercontent.com/101918076/201359400-25ce9dc3-79cf-4a5e-9992-cd1b02d821e3.png">
