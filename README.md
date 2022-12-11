@@ -5,6 +5,12 @@ Paste the code where the conditional branch applies
 This repository is open source and under the MIT License.  
 It is also very interesting to improve the code and create plug-ins as needed！  
 
+---
+
+**The code is dirty, so please clean it up LOL**
+
+---
+
 ## Repository
 
 ```
