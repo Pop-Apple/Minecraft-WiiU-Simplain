@@ -7,7 +7,7 @@ It is also very interesting to improve the code and create plug-ins as needed！
 
 ---
 
-**The code is dirty, so please clean it up LOL**
+~~The code is dirty, so please clean it up LOL~~
 
 ---
 
