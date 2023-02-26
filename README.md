@@ -23,7 +23,7 @@ It is also very interesting to improve the code and create plugins as needed！
 ### clone
 
 ```
-git clone ~ ~
+git clone https://github.com/Pop-Apple/Minecraft-WiiU-Simplain.git
 ```
 
 ## Compile
