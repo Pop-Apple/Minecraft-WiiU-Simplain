@@ -15,8 +15,6 @@ It is also very interesting to improve the code and create plugins as needed！
 
 **The development platform is `Wii U`**
 
----
-
 | App | Version |
 ----|----
 | <img src="https://github.com/Pop-Apple/Minecraft-WiiU-Simplain/blob/master/assets/App.png" width="350px" height="260px"> | 1.0.0.2 |
